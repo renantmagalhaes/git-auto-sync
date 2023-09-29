@@ -11,8 +11,8 @@ Cron-Style Scheduling: Set up the tool to pull and push based on a cron-style sc
 
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/renantmagalhaes/git-auto-sync.git
+cd git-auto-sync
 pip install -r requirements.txt
 python main.py
 ```
