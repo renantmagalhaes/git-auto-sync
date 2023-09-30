@@ -2,6 +2,9 @@
 
 A simple GUI tool to automatically pull and push changes from a Git repository based on a cron-style schedule.
 
+# TODO
+- [ ] Validade cron syntax
+
 ## Features
 Select Git Directory: Specify the local path of your Git directory.
 SSH Key Support: Use a default or specific SSH key for your Git operations.
